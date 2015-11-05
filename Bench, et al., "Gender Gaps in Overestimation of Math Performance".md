@@ -1,0 +1,7 @@
+[Bench, et al., "Gender Gaps in Overestimation of Math Performance"](http://link.springer.com/article/10.1007%2Fs11199-015-0486-9):
+
+> **Abstract**
+>
+> In the United States, men are more likely to pursue math-intense STEM courses and careers than women. This investigation explored whether positivity bias in the degree to which people overestimate their past performance contributes to this gender gap. To find out, two studies were conducted with undergraduate college students in the Southern United States. In Study 1, participants (n = 122) completed a math test and estimated the percent they had solved. They then were given feedback and completed a second math test and estimation. Men overestimated their performance more than women, judging they had done better on the test than they actually had. This gender difference was not present after feedback. Further, women, but not men, who reported a more positive previous experience with math were more likely to overestimate their performance. In Study 2, participants (n = 184) completed a math test and estimated the percent they had solved. They also reported their interest in pursuing math courses and careers. Again, men overestimated their performance more than women. This greater overestimation of performance in men accounted for their greater intent to pursue math fields compared to women. The findings suggest that gender gaps in STEM fields are not necessarily the result of women _underestimating_ their abilities, but rather may be due to men _overestimating_ their abilities.
+
+[end]

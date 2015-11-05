@@ -1,0 +1,9 @@
+[Björn Sjödén, "What makes good educational software?" (thesis)](https://lup.lub.lu.se/search/publication/7991505)
+
+> **Abstract**
+>
+> ... The overarching purpose is two-fold: (1) to perform a critical examination of what makes educational software effective for learning (particularly when employed in actual classrooms); (2) to reflect how cognitive science can contribute to meet this goal, by applying and discussing several methodological approaches in five research papers. These include observational approaches (Paper I), quasi-experimental design (Paper II) with conceptual replications (Paper III), post hoc data analysis (Paper IV) and theoretical review (Paper V). A particular example is the concept of teachable agents, or “digital tutees”: digital characters guided by artificial intelligence techniques which let the human student act as a “teacher” in the digital environment. A focus point in Paper I–IV is how teachable agents may improve students’ learning through social influence. Paper V takes a broader and more theoretical approach by reviewing the current state of educational software presently available to teachers, particularly (but not limited to) so-called “educational apps”. ...
+> 
+> ... Educational software opens new opportunities for presenting material in several simultaneous modalities, providing individually adaptive feedback, and allowing students to take on different social roles – all with demonstrated cognitive effects. On the other hand, it imposes constraints on the teaching process that may offer not only “added” but also “diminished” pedagogical value. It will do the latter where it contains misleading information or engages students in oversimplified or irrelevant tasks, such as allowing trial-and-error solutions to problems that would otherwise require deep reflection. ...
+
+[end]
