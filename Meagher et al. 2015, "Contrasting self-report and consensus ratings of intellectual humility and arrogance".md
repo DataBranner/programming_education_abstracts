@@ -6,7 +6,7 @@
 > 
 > Being full of oneself when it came to rating one’s intellectual arrogance — an exaggerated view of intellectual ability and knowledge — instead generally predicted academic achievement, especially on individual course work.
 
-The actual research seems to have a much more technical focus: [Meagher et al., "Contrasting self-report and consensus ratings of intellectual humility and arrogance"](http://www.sciencedirect.com/science/article/pii/S0092656615300039)
+The actual research seems to have a much more technical focus: [Meagher et al. 2015, "Contrasting self-report and consensus ratings of intellectual humility and arrogance"](http://www.sciencedirect.com/science/article/pii/S0092656615300039)
 
 > **Highlights**
 > 

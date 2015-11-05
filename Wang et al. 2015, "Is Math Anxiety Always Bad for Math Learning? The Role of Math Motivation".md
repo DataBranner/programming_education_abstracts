@@ -1,4 +1,4 @@
-[Wang et al., "Is Math Anxiety Always Bad for Math Learning? The Role of Math Motivation"](http://m.pss.sagepub.com/content/early/2015/10/30/0956797615602471)
+[Wang et al. 2015, "Is Math Anxiety Always Bad for Math Learning? The Role of Math Motivation"](http://m.pss.sagepub.com/content/early/2015/10/30/0956797615602471)
 
 I have no doubt that this is true of coding, as well — though the paper doesn't address it.
 

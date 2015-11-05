@@ -1,4 +1,4 @@
-[Timo Gnambs, "What makes a computer wiz? Linking personality traits and programming aptitude"](http://www.sciencedirect.com/science/article/pii/S0092656615300052)
+[Timo Gnambs 2015, "What makes a computer wiz? Linking personality traits and programming aptitude"](http://www.sciencedirect.com/science/article/pii/S0092656615300052)
 
 > **Highlights**
 > 

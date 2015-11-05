@@ -1,4 +1,4 @@
-["First Steps" study, "Empathetic teachers enhance children's motivation for learning"](http://www.uef.fi/en/-/opettajan-lamminhenkisyys-kasvattaa-lasten-oppimismotivaatiota)
+[First Steps study 2015, "Empathetic teachers enhance children's motivation for learning"](http://www.uef.fi/en/-/opettajan-lamminhenkisyys-kasvattaa-lasten-oppimismotivaatiota)
 
 > **Abstract**
 >

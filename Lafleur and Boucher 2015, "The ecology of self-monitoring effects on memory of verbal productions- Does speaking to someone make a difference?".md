@@ -1,4 +1,4 @@
-[Lafleur and Boucher, "The ecology of self-monitoring effects on memory of verbal productions: Does speaking to someone make a difference?"](http://www.sciencedirect.com/science/article/pii/S1053810015001518):
+[Lafleur and Boucher 2015, "The ecology of self-monitoring effects on memory of verbal productions: Does speaking to someone make a difference?"](http://www.sciencedirect.com/science/article/pii/S1053810015001518):
 
 > **Highlights**
 > 

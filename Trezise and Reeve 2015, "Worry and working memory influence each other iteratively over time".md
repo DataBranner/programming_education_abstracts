@@ -1,4 +1,4 @@
-[Trezise and Reeve, "Worry and working memory influence each other iteratively over time"](http://www.tandfonline.com/doi/abs/10.1080/02699931.2014.1002755?journalCode=pcem20):
+[Trezise and Reeve 2015, "Worry and working memory influence each other iteratively over time"](http://www.tandfonline.com/doi/abs/10.1080/02699931.2014.1002755?journalCode=pcem20):
 
 > **Abstract**
 > 
