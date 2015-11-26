@@ -1,4 +1,4 @@
-[Maurer et al., "A new face of sleep: The impact of post-learning sleep on recognition memory for face-name associations"](http://www.sciencedirect.com/science/article/pii/S1074742715001926):
+[Maurer et al. (2015), "A new face of sleep: The impact of post-learning sleep on recognition memory for face-name associations"](http://www.sciencedirect.com/science/article/pii/S1074742715001926):
 
 > **Highlights**
 > 
