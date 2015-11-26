@@ -2,7 +2,7 @@
 
 Please
 
- 1. Do so as a pull request. First, [fork](#fork-destination-box) the repository, add your content, and then send a pull request.
+ 1. Do so as a pull request. First, [fork](https://help.github.com/articles/fork-a-repo/) the repository, add your content, and then send a pull request.
  1. Limit yourself to five abstracts per pull request, as that will keep my workload manageable.
  1. Attentively follow the formatting instructions below.
  1. Include only published author, title, highlight, and abstract content from the primary research report, rather than anything from secondary reports about the research.
