@@ -2,7 +2,7 @@
 
 **What this is about**
 
-I ran foreign language classrooms for a couple of decades (rounded down). I abandoned academia in 2008 and cut my last salaried ties with it last year, after which I got my first programming job. A year on, I decided to try to move into the teaching of programming and computer science, and I've just found work in a for-profit school. It seems possible that this may end up being my actual second career, something I've been moving toward now for the proverbial seven years of indentureship. If so, I intend to try to attack this target properly. 
+I ran foreign language classrooms for a couple of decades (rounded down). I abandoned academia in 2008 and cut my last salaried ties with it in 2014, after which I got my first programming job. A year on, I decided to try to move into the teaching of programming and computer science, and I've just (2015 Autumn) found work in a for-profit school. It seems possible that this may end up being my actual second career, something I've been moving toward now for the proverbial seven years of indentureship. If so, I intend to try to attack this target properly. 
 
 I am interested in what it takes for people to learn to code and to conduct the other activities needed to reason in this field; I'm interested as both a learner myself and someone who leads and shepherds others as they learn. So I've begun keeping records of the many abstracts of academic research I follow, when the topics pertain to issues touched on in learning to code.
 
