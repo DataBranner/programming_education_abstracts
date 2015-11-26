@@ -1,4 +1,4 @@
-[Seehagen et al. (2015) "Timely sleep facilitates declarative memory consolidation in infants"](http://www.pnas.org/content/112/5/1625.abstract):
+[Seehagen et al. 2015, "Timely sleep facilitates declarative memory consolidation in infants"](http://www.pnas.org/content/112/5/1625.abstract):
 
 **Significance**
 
