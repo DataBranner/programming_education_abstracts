@@ -1,0 +1,7 @@
+[Grilli & Glisky 2015, "Imagining a Better Memory: Self-Imagination in Memory-Impaired Patients"](http://mdgrilli.faculty.arizona.edu/sites/default/files/Grilli%20%26%20Glisky,%202013,%20Clinical%20Psychological%20Science.pdf):
+
+> **Abstract**
+> 
+> Recent research has demonstrated that self-referential strategies can be applied to improve memory in memory-impaired populations. However, little is known regarding the mnemonic mechanisms and relative effectiveness of self-referential strategies in memory-impaired individuals. This study investigated the benefit of a new self-referential strategy known as self-imagination, traditional self-referential strategies, and non-self-referential strategies on free recall in memory-impaired patients with acquired brain injury and in healthy control respondents. The data revealed an advantage of self-imagining in free recall relative to all other strategies in patients and control respondents. Findings also demonstrated that, in the patients only, a self-referential strategy that relied on semantic information in self-knowledge was more effective than a self-referential strategy that relied on autobiographical episodic information. This study provides new evidence to support the clinical utility of self-imagining as a memory strategy and has implications for the future development and implementation of self-referential strategies in memory rehabilitation.
+
+[end]
