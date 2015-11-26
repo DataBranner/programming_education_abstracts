@@ -26,7 +26,11 @@ Format:
     > **Abstract**
     >
     > abstract goes here
+    
+    [end]
     ```
+    
+    I normally always end a text file with `[end]`, so that there is no doubt that it has not been truncated.
  
  1. The filename should be the same content as the author, year, and title, except without double quotes around the title. Filenames should end in `.md`.
  1. Do not put a comma before the year of publication or parentheses around it.
