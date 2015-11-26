@@ -5,12 +5,12 @@
  1. Do so as a pull request. First, [fork](https://help.github.com/articles/fork-a-repo/) the repository, add your content, and then send a pull request.
  1. Limit yourself to five abstracts per pull request, as that will keep my workload manageable.
  1. Attentively follow the formatting instructions below.
- 1. Include only published author, title, highlight, and abstract content from the primary research report, rather than anything from secondary reports about the research.
+ 1. Include only published author, title, highlight, and abstract content from the primary research report, rather than anything from secondary reports about the research, unless the original report is not publicly accessible.
  1. Don't add comments. The point of this project is to enable review of abstracts.
 
 **Format**:
 
- 1. Every abstract should be in its own Markdown file (I am using GitHub Flavored Markdown, [GFM](https://help.github.com/articles/github-flavored-markdown/). Filenames should end in `.md`.
+ 1. Every abstract should be in its own Markdown file (I am technically using GitHub Flavored Markdown, [GFM](https://help.github.com/articles/github-flavored-markdown/), although [standard Markdown syntax](https://daringfireball.net/projects/markdown/syntax) acounts for most of what I actually use). Filenames should end in `.md`.
  1. The file should open with a link to the original, publicly accessible abstract file. Then include any bullet-pointed "highlights", followed by the abstract. Highlights and abstract are preceded by the words Highlights and Abstract, bold-faced. Here is a rough template:
 
 
