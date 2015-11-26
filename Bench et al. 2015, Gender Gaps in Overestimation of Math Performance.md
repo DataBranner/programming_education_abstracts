@@ -1,4 +1,4 @@
-[Bench, et al. 2015, "Gender Gaps in Overestimation of Math Performance"](http://link.springer.com/article/10.1007%2Fs11199-015-0486-9):
+[Bench et al. 2015, "Gender Gaps in Overestimation of Math Performance"](http://link.springer.com/article/10.1007%2Fs11199-015-0486-9):
 
 > **Abstract**
 >
