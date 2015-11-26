@@ -30,7 +30,7 @@ Format:
  
  1. The filename should be the same content as the author, year, and title, except without double quotes around the title. Filenames should end in `.md`.
  1. Do not put a comma before the year of publication or parentheses around it.
- 1. Omit a period at the end of the title. If the title ends in other punctuation (ellipsis `...`, question mark `?`, etc.), include it.
+ 1. Omit a period at the end of the title. If the title ends in other punctuation (ellipsis `...`, question mark `?`, etc.), include it. Some punctuation (slash `/`, backslash `\`, colon `:`) may cause problems in some operating systems — feel free to replace with a dash `-`.
  1. Note that many titles now have multiple parts — the first may be a question (see Gnambs, below) or end in a colon (see Grilli & Glisky, below). Be sure to include all parts of the title.
  1. Use the following formats for authors:
 
