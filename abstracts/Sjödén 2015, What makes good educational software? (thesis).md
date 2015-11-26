@@ -1,4 +1,4 @@
-[Björn Sjödén 2015, "What makes good educational software?" (thesis)](https://lup.lub.lu.se/search/publication/7991505)
+[Sjödén 2015, "What makes good educational software?" (thesis)](https://lup.lub.lu.se/search/publication/7991505)
 
 > **Abstract**
 >
