@@ -1,4 +1,4 @@
-[Howland & Good 2013, "Learning to communicate computationally with Flip: A bi-modal programming language for game creation"]http://www.sciencedirect.com/science/article/pii/S036013151400195X():
+[Howland & Good 2015, "Learning to communicate computationally with Flip: A bi-modal programming language for game creation"]http://www.sciencedirect.com/science/article/pii/S036013151400195X():
 
 > **Highlights**
 > 
