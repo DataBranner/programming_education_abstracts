@@ -1,4 +1,4 @@
-[Brunel University 2015, "Robo-Code – up-skilling Engineers’ communication skills, enabling them to stimulate young people through engagement with Engineering"](http://www.raeng.org.uk/publications/other/ingenious-awards-round-9-2015#8):
+[Brunel University study 2015, "Robo-Code – up-skilling Engineers’ communication skills, enabling them to stimulate young people through engagement with Engineering"](http://www.raeng.org.uk/publications/other/ingenious-awards-round-9-2015#8):
 
 > Royal Academy of Engineering, 2015 [Ingenious](http://www.raeng.org.uk/grants-and-prizes/ingenious-grant) awardee. Amount awarded £29,625.
 >
