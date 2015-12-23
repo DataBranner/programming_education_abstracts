@@ -1,4 +1,6 @@
-[Wood & Michaelides, "Challenge and hindrance stressors and wellbeing-based work–nonwork interference: A diary study of portfolio workers"](hum.sagepub.com/content/early/2015/10/14/0018726715580866.full.pdf):
+[Wood & Michaelides 2015, "Challenge and hindrance stressors and wellbeing-based work–nonwork interference: A diary study of portfolio workers"](hum.sagepub.com/content/early/2015/10/14/0018726715580866.full.pdf):
+
+[Abstract is too dense to read easily; my summary here. - dpb]
 
 This paper attempts to measure two different consequences on work-life balance and well-being of long hours doing contract-work: the effects of calmness and the effects of enthusiasm. The authors distinguish between "hindrance stressors" and "challenge stressors": 
 
